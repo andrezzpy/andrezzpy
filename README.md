@@ -47,14 +47,6 @@ I'm a Computer Science student passionate about systems programming and automati
 
 </div>
 
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=111827&font_color=9CA3AF&border_color=1F2937)
-
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
