@@ -1,35 +1,25 @@
 # 👋 Hi, I'm Andrezz
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&color=F3F4F6&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Passionate+about+Systems+Programming;Always+learning+something+new#gh-dark-mode-only" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&color=D1D5DB&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Passionate+about+Systems+Programming;Always+learning+something+new#gh-dark-mode-only" />
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&color=1F2937&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Passionate+about+Systems+Programming;Always+learning+something+new#gh-light-mode-only" />
 </p>
 
 ## 🧑‍🎓 About Me
 
-```python
-class Andrezz:
-    def __init__(self):
-        self.role = "CS Student"
-        self.interests = ["Systems Programming", "Automation", "Open Source"]
-        self.languages = ["C/C++", "Python"]
-        self.motto = "Turning coffee into code"
-
-    def current_focus(self):
-        return "Building efficient and clean software"
-```
+I'm a Computer Science student passionate about systems programming and automation. I'm still learning and improving every day, and right now I'm sharpening my skills in C, C++ and Python. I enjoy writing clean, efficient code and understanding how software works under the hood.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-374151?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-4B5563?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-6B7280?style=flat-square&logo=python&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-374151?style=flat-square&logo=linux&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-4B5563?style=flat-square&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-6B7280?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -37,22 +27,14 @@ class Andrezz:
 
 <div align="center">
 
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=andrezzpy&show_icons=true&title_color=1F2937&text_color=4B5563&icon_color=9CA3AF&bg_color=ffffff&hide_border=true&border_radius=10&count_private=true" />
-<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrezzpy&layout=compact&title_color=1F2937&text_color=4B5563&bg_color=ffffff&hide_border=true&border_radius=10" />
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=andrezzpy&show_icons=true&title_color=F3F4F6&text_color=9CA3AF&icon_color=6B7280&bg_color=111827&hide_border=true&border_radius=10&count_private=true" />
+<img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrezzpy&layout=compact&title_color=F3F4F6&text_color=9CA3AF&bg_color=111827&hide_border=true&border_radius=10" />
 
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=andrezzpy&background=ffffff&border=ffffff&ring=1F2937&fire=1F2937&currStreakNum=1F2937&sideNums=6B7280&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=andrezzpy&background=111827&border=111827&ring=9CA3AF&fire=F3F4F6&currStreakNum=F3F4F6&sideNums=9CA3AF&currStreakLabel=D1D5DB&sideLabels=9CA3AF&dates=F3F4F6&hide_border=true" />
 </p>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=andrezzpy&theme=white&no-frame=true&column=7&margin-w=10" />
-
-</div>
 
 ## 🐍 Contribution Snake
 
@@ -69,7 +51,7 @@ class Andrezz:
 
 <div align="center">
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=ffffff&font_color=4B5563&border_color=E5E7EB)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=111827&font_color=9CA3AF&border_color=1F2937)
 
 </div>
 
@@ -77,7 +59,7 @@ class Andrezz:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/andrezzpy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andrezzpy)
 
 </div>
 
@@ -85,6 +67,6 @@ class Andrezz:
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=andrezzpy&color=9CA3AF&style=flat-square&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=andrezzpy&color=6B7280&style=flat-square&label=VISITORS)
 
 </div>
