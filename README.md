@@ -47,14 +47,6 @@ I'm a Computer Science student passionate about systems programming and automati
 
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/andrezzpy)
-
-</div>
-
 ---
 
 <div align="center">
