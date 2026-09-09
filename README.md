@@ -38,14 +38,14 @@ class Andrezz:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrezzpy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrezzpy&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=andrezzpy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=andrezzpy&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrezzpy&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=andrezzpy&theme=radical&hide_border=true)
 
 </div>
 
@@ -53,7 +53,7 @@ class Andrezz:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrezzpy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=andrezzpy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -61,7 +61,7 @@ class Andrezz:
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/andrezzpy/andrezzpy/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/andrezzpy/andrezzpy/output/github-snake-dark.svg)
 
 </div>
 
